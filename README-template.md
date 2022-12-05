@@ -32,7 +32,7 @@ Users should be able to:
 ![theme-3-mobile](./images/calculator-theme-2-mobile.png)
 
 - Solution URL: [github repository](https://github.com/Timley53/calculator)
-- Live Site URL: [Live site](https://timley-calculator.netlify.app/)
+- Live Site URL: [Live site](https://timley-calculator.netlify.app)
 
 ## My process
 
