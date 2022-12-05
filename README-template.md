@@ -31,8 +31,8 @@ Users should be able to:
 ![theme-2-mobile](./images/calculator-theme-2-mobile.png)
 ![theme-3-mobile](./images/calculator-theme-2-mobile.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repository](https://github.com/Timley53/calculator)
+- Live Site URL: [Live site](https://timley-calculator.netlify.app/)
 
 ## My process
 
